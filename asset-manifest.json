@@ -1,21 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.4f39eccc.css",
-    "main.js": "/static/js/main.dd91ab3e.js",
+    "main.js": "/static/js/main.c12ba8b1.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/guardaroupa1_2.jpg": "/static/media/guardaroupa1_2.6796725844e2cb2da5cb.jpg",
+    "static/media/camabox1.jpg": "/static/media/camabox1.bb52b08db264e32a06a5.jpg",
+    "static/media/guardaroupa2_2.jpg": "/static/media/guardaroupa2_2.f5ebd0372bd2617820d6.jpg",
     "static/media/guardaroupa1_3.jpg": "/static/media/guardaroupa1_3.9bf68c70cd68f2959969.jpg",
     "static/media/guardaroupa1_1.jpg": "/static/media/guardaroupa1_1.847b3d07fb2047c0a766.jpg",
+    "static/media/camabox3.jpg": "/static/media/camabox3.35d812c360b2b22e4134.jpg",
+    "static/media/camabox2.jpg": "/static/media/camabox2.c3edff334918761b3c65.jpg",
     "static/media/maquina_lavar1.jpg": "/static/media/maquina_lavar1.e5e58393f1b2ce53265c.jpg",
     "static/media/maquina_lavar2.jpg": "/static/media/maquina_lavar2.c209f16dc32adc15981f.jpg",
     "static/media/maquina_lavar3.jpg": "/static/media/maquina_lavar3.67e6b0e03a5b8961b81c.jpg",
+    "static/media/guardaroupa2_3.jpg": "/static/media/guardaroupa2_3.6ba185f6237cb8436f00.jpg",
+    "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.4f39eccc.css.map": "/static/css/main.4f39eccc.css.map",
-    "main.dd91ab3e.js.map": "/static/js/main.dd91ab3e.js.map",
+    "main.c12ba8b1.js.map": "/static/js/main.c12ba8b1.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f39eccc.css",
-    "static/js/main.dd91ab3e.js"
+    "static/js/main.c12ba8b1.js"
   ]
 }
