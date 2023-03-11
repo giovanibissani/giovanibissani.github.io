@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.36a4027a.js",
+    "main.js": "/static/js/main.043a78ab.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/camabox5.jpg": "/static/media/camabox5.332b5b0863c4f66c3606.jpg",
+    "static/media/vent1.jpg": "/static/media/vent1.a1eb8081bc53388b6b9b.jpg",
     "static/media/camabox4.jpg": "/static/media/camabox4.82e6377587a50102e807.jpg",
+    "static/media/vent2.jpg": "/static/media/vent2.b6c3dfab1392be5f9804.jpg",
     "static/media/cadeiraEsc.jpg": "/static/media/cadeiraEsc.ed10fc818dc939fece3f.jpg",
     "static/media/wii.jpg": "/static/media/wii.11fd4dd2980c04fb6471.jpg",
     "static/media/violao.jpg": "/static/media/violao.8bc25507cd9559c46730.jpg",
@@ -74,11 +76,11 @@
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.36a4027a.js.map": "/static/js/main.36a4027a.js.map",
+    "main.043a78ab.js.map": "/static/js/main.043a78ab.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.36a4027a.js"
+    "static/js/main.043a78ab.js"
   ]
 }
