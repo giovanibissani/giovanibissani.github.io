@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.55f2075d.js",
+    "main.js": "/static/js/main.cb2fd7e3.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/camabox5.jpg": "/static/media/camabox5.332b5b0863c4f66c3606.jpg",
     "static/media/camabox4.jpg": "/static/media/camabox4.82e6377587a50102e807.jpg",
@@ -63,11 +63,11 @@
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.55f2075d.js.map": "/static/js/main.55f2075d.js.map",
+    "main.cb2fd7e3.js.map": "/static/js/main.cb2fd7e3.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.55f2075d.js"
+    "static/js/main.cb2fd7e3.js"
   ]
 }
