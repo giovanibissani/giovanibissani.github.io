@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.d5f74e7c.js",
+    "main.js": "/static/js/main.55f2075d.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/camabox5.jpg": "/static/media/camabox5.332b5b0863c4f66c3606.jpg",
     "static/media/camabox4.jpg": "/static/media/camabox4.82e6377587a50102e807.jpg",
+    "static/media/oculos1.jpg": "/static/media/oculos1.98723492d25e71596540.jpg",
     "static/media/varal2.jpg": "/static/media/varal2.df83ee8a0233e978b423.jpg",
     "static/media/josecuervo.jpg": "/static/media/josecuervo.31e76b0c473a56c9efdb.jpg",
     "static/media/jager.jpg": "/static/media/jager.fac1dfc4c389dbc864f5.jpg",
     "static/media/kitliqui6.jpg": "/static/media/kitliqui6.d0bccfe1530da695177a.jpg",
     "static/media/camabox1.jpg": "/static/media/camabox1.ee33c64839ecfb30a90b.jpg",
     "static/media/kitliqui5.jpg": "/static/media/kitliqui5.700ae9ce8c72623fbe11.jpg",
+    "static/media/torre.jpg": "/static/media/torre.778f4a0cb89081f8c250.jpg",
     "static/media/kitliqui4.jpg": "/static/media/kitliqui4.a037f63422a80030bacb.jpg",
     "static/media/geladeira1.jpg": "/static/media/geladeira1.5f19922764db5481b542.jpg",
     "static/media/kitliqui3.jpg": "/static/media/kitliqui3.11df041954fbd407c4b6.jpg",
@@ -23,6 +25,7 @@
     "static/media/varal1.jpg": "/static/media/varal1.456cd6041e55b64148d8.jpg",
     "static/media/rack1.jpg": "/static/media/rack1.fd0f2884a22f278dd2ff.jpg",
     "static/media/kitliqui1.jpg": "/static/media/kitliqui1.da8e02e482eb6bf0c0ef.jpg",
+    "static/media/mesa_bruna.jpg": "/static/media/mesa_bruna.ec32ef52f6fd87f6f7ea.jpg",
     "static/media/absolut.jpg": "/static/media/absolut.51dfb44d7809ac45c0c6.jpg",
     "static/media/kitbeb.jpg": "/static/media/kitbeb.62db4e8d5526c5633b80.jpg",
     "static/media/armario1.jpg": "/static/media/armario1.b3076a1ae65128c22cbe.jpg",
@@ -37,10 +40,13 @@
     "static/media/cadeiras_jantar3.jpg": "/static/media/cadeiras_jantar3.362590cf943c6f5f7e15.jpg",
     "static/media/fogao1.jpg": "/static/media/fogao1.8a7ffeded99cbb069988.jpg",
     "static/media/cadeiras_jantar2.jpg": "/static/media/cadeiras_jantar2.b7fe299ec817302d5e28.jpg",
+    "static/media/monitor1.jpg": "/static/media/monitor1.fdb24a5b86e187cc9707.jpg",
     "static/media/fogao2.jpg": "/static/media/fogao2.155a699106ddabb9b289.jpg",
     "static/media/cortina2.jpg": "/static/media/cortina2.be5c33117094a81a549f.jpg",
+    "static/media/microondas1.jpg": "/static/media/microondas1.f732a2f97a4ac989e767.jpg",
     "static/media/camabox3.jpg": "/static/media/camabox3.35d812c360b2b22e4134.jpg",
     "static/media/camabox2.jpg": "/static/media/camabox2.c3edff334918761b3c65.jpg",
+    "static/media/microondas2.jpg": "/static/media/microondas2.118f79d0b91d17475877.jpg",
     "static/media/maquina_lavar1.jpg": "/static/media/maquina_lavar1.e5e58393f1b2ce53265c.jpg",
     "static/media/mesinha3.jpg": "/static/media/mesinha3.cd9af16f2d88c9078a70.jpg",
     "static/media/maquina_lavar2.jpg": "/static/media/maquina_lavar2.c209f16dc32adc15981f.jpg",
@@ -51,16 +57,17 @@
     "static/media/cadeiras_jantar1.jpg": "/static/media/cadeiras_jantar1.687b93fb17869892e415.jpg",
     "static/media/mesa_jantar2.jpg": "/static/media/mesa_jantar2.e2f9276cb4c199c1ce06.jpg",
     "static/media/guardaroupa2_3.jpg": "/static/media/guardaroupa2_3.6ba185f6237cb8436f00.jpg",
+    "static/media/monitor2.jpg": "/static/media/monitor2.b509359072c217c1dc5e.jpg",
     "static/media/mesinha1.jpg": "/static/media/mesinha1.30b41e4470211e55d02e.jpg",
     "static/media/mesinha2.jpg": "/static/media/mesinha2.5130c3d8c6b5322329f9.jpg",
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.d5f74e7c.js.map": "/static/js/main.d5f74e7c.js.map",
+    "main.55f2075d.js.map": "/static/js/main.55f2075d.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.d5f74e7c.js"
+    "static/js/main.55f2075d.js"
   ]
 }
