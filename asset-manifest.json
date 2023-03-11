@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f39eccc.css",
-    "main.js": "/static/js/main.d12a7936.js",
+    "main.css": "/static/css/main.e584a3d3.css",
+    "main.js": "/static/js/main.2909f5d1.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/varal2.jpg": "/static/media/varal2.df83ee8a0233e978b423.jpg",
+    "static/media/josecuervo.jpg": "/static/media/josecuervo.31e76b0c473a56c9efdb.jpg",
+    "static/media/jager.jpg": "/static/media/jager.fac1dfc4c389dbc864f5.jpg",
     "static/media/camabox1.jpg": "/static/media/camabox1.ee33c64839ecfb30a90b.jpg",
+    "static/media/varal1.jpg": "/static/media/varal1.456cd6041e55b64148d8.jpg",
+    "static/media/absolut.jpg": "/static/media/absolut.51dfb44d7809ac45c0c6.jpg",
+    "static/media/kitbeb.jpg": "/static/media/kitbeb.62db4e8d5526c5633b80.jpg",
     "static/media/guardaroupa1_2.jpg": "/static/media/guardaroupa1_2.6796725844e2cb2da5cb.jpg",
     "static/media/guardaroupa2_2.jpg": "/static/media/guardaroupa2_2.f5ebd0372bd2617820d6.jpg",
     "static/media/guardaroupa1_3.jpg": "/static/media/guardaroupa1_3.9bf68c70cd68f2959969.jpg",
     "static/media/guardaroupa1_1.jpg": "/static/media/guardaroupa1_1.847b3d07fb2047c0a766.jpg",
+    "static/media/fogao3.jpg": "/static/media/fogao3.941cc4c6e4e922856a05.jpg",
     "static/media/cadeiras_jantar3.jpg": "/static/media/cadeiras_jantar3.362590cf943c6f5f7e15.jpg",
+    "static/media/fogao1.jpg": "/static/media/fogao1.8a7ffeded99cbb069988.jpg",
     "static/media/cadeiras_jantar2.jpg": "/static/media/cadeiras_jantar2.b7fe299ec817302d5e28.jpg",
+    "static/media/fogao2.jpg": "/static/media/fogao2.155a699106ddabb9b289.jpg",
     "static/media/camabox3.jpg": "/static/media/camabox3.35d812c360b2b22e4134.jpg",
     "static/media/camabox2.jpg": "/static/media/camabox2.c3edff334918761b3c65.jpg",
     "static/media/maquina_lavar1.jpg": "/static/media/maquina_lavar1.e5e58393f1b2ce53265c.jpg",
@@ -25,12 +34,12 @@
     "static/media/mesinha2.jpg": "/static/media/mesinha2.5130c3d8c6b5322329f9.jpg",
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
-    "main.4f39eccc.css.map": "/static/css/main.4f39eccc.css.map",
-    "main.d12a7936.js.map": "/static/js/main.d12a7936.js.map",
+    "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
+    "main.2909f5d1.js.map": "/static/js/main.2909f5d1.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f39eccc.css",
-    "static/js/main.d12a7936.js"
+    "static/css/main.e584a3d3.css",
+    "static/js/main.2909f5d1.js"
   ]
 }
