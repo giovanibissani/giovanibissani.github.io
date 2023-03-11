@@ -1,13 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.4cdfe6f4.js",
+    "main.js": "/static/js/main.874bef71.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/camabox5.jpg": "/static/media/camabox5.332b5b0863c4f66c3606.jpg",
     "static/media/camabox4.jpg": "/static/media/camabox4.82e6377587a50102e807.jpg",
+    "static/media/cadeiraEsc.jpg": "/static/media/cadeiraEsc.ed10fc818dc939fece3f.jpg",
+    "static/media/wii.jpg": "/static/media/wii.11fd4dd2980c04fb6471.jpg",
+    "static/media/violao.jpg": "/static/media/violao.8bc25507cd9559c46730.jpg",
     "static/media/oculos1.jpg": "/static/media/oculos1.98723492d25e71596540.jpg",
     "static/media/varal2.jpg": "/static/media/varal2.df83ee8a0233e978b423.jpg",
     "static/media/josecuervo.jpg": "/static/media/josecuervo.31e76b0c473a56c9efdb.jpg",
+    "static/media/cafe2.jpg": "/static/media/cafe2.94c95577e4cb68cfc264.jpg",
+    "static/media/cafe1.jpg": "/static/media/cafe1.e0a61ee7d09117927fac.jpg",
     "static/media/jager.jpg": "/static/media/jager.fac1dfc4c389dbc864f5.jpg",
     "static/media/kitliqui6.jpg": "/static/media/kitliqui6.d0bccfe1530da695177a.jpg",
     "static/media/camabox1.jpg": "/static/media/camabox1.ee33c64839ecfb30a90b.jpg",
@@ -16,6 +21,7 @@
     "static/media/kitliqui4.jpg": "/static/media/kitliqui4.a037f63422a80030bacb.jpg",
     "static/media/geladeira1.jpg": "/static/media/geladeira1.5f19922764db5481b542.jpg",
     "static/media/kitliqui3.jpg": "/static/media/kitliqui3.11df041954fbd407c4b6.jpg",
+    "static/media/quadro.jpg": "/static/media/quadro.1a4121e7bd55d035ea74.jpg",
     "static/media/rack3.jpg": "/static/media/rack3.be5076c41a8c55c9903e.jpg",
     "static/media/armario2.jpg": "/static/media/armario2.378e42d9909267af752a.jpg",
     "static/media/fondue1.jpg": "/static/media/fondue1.cddc23eb2d0e8f7e3a30.jpg",
@@ -55,20 +61,22 @@
     "static/media/mesa_jantar1.jpg": "/static/media/mesa_jantar1.16b21e20f3df70e7b24c.jpg",
     "static/media/mesa_jantar3.jpg": "/static/media/mesa_jantar3.a201b8ec2f024e40e861.jpg",
     "static/media/maquina_lavar3.jpg": "/static/media/maquina_lavar3.67e6b0e03a5b8961b81c.jpg",
+    "static/media/armarioEsc2.jpg": "/static/media/armarioEsc2.d332ed8aad0da2df234f.jpg",
     "static/media/cadeiras_jantar1.jpg": "/static/media/cadeiras_jantar1.687b93fb17869892e415.jpg",
     "static/media/mesa_jantar2.jpg": "/static/media/mesa_jantar2.e2f9276cb4c199c1ce06.jpg",
     "static/media/guardaroupa2_3.jpg": "/static/media/guardaroupa2_3.6ba185f6237cb8436f00.jpg",
+    "static/media/armarioEsc1.jpg": "/static/media/armarioEsc1.c16494c76f8975db3588.jpg",
     "static/media/monitor2.jpg": "/static/media/monitor2.b509359072c217c1dc5e.jpg",
     "static/media/mesinha1.jpg": "/static/media/mesinha1.30b41e4470211e55d02e.jpg",
     "static/media/mesinha2.jpg": "/static/media/mesinha2.5130c3d8c6b5322329f9.jpg",
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.4cdfe6f4.js.map": "/static/js/main.4cdfe6f4.js.map",
+    "main.874bef71.js.map": "/static/js/main.874bef71.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.4cdfe6f4.js"
+    "static/js/main.874bef71.js"
   ]
 }
