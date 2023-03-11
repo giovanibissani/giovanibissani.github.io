@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.874bef71.js",
+    "main.js": "/static/js/main.36a4027a.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/camabox5.jpg": "/static/media/camabox5.332b5b0863c4f66c3606.jpg",
     "static/media/camabox4.jpg": "/static/media/camabox4.82e6377587a50102e807.jpg",
@@ -27,6 +27,7 @@
     "static/media/fondue1.jpg": "/static/media/fondue1.cddc23eb2d0e8f7e3a30.jpg",
     "static/media/kitliqui2.jpg": "/static/media/kitliqui2.39e6dfb0f32576d25d22.jpg",
     "static/media/escrivaninha.jpg": "/static/media/escrivaninha.68e344d6390ff53866b5.jpg",
+    "static/media/gaveteiro1.jpg": "/static/media/gaveteiro1.1b47247195e8042e3f10.jpg",
     "static/media/cortina1.jpg": "/static/media/cortina1.1711915094002f624981.jpg",
     "static/media/rack2.jpg": "/static/media/rack2.b62b27c65690fbbd2ff9.jpg",
     "static/media/varal1.jpg": "/static/media/varal1.456cd6041e55b64148d8.jpg",
@@ -37,6 +38,7 @@
     "static/media/kitbeb.jpg": "/static/media/kitbeb.62db4e8d5526c5633b80.jpg",
     "static/media/armario1.jpg": "/static/media/armario1.b3076a1ae65128c22cbe.jpg",
     "static/media/guardaroupa1_2.jpg": "/static/media/guardaroupa1_2.6796725844e2cb2da5cb.jpg",
+    "static/media/gaveteiro2.jpg": "/static/media/gaveteiro2.743cac4b8b081b572a6e.jpg",
     "static/media/guardaroupa2_2.jpg": "/static/media/guardaroupa2_2.f5ebd0372bd2617820d6.jpg",
     "static/media/guardaroupa1_3.jpg": "/static/media/guardaroupa1_3.9bf68c70cd68f2959969.jpg",
     "static/media/geladeira3.jpg": "/static/media/geladeira3.faceafaa1bf9f1f0c140.jpg",
@@ -72,11 +74,11 @@
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.874bef71.js.map": "/static/js/main.874bef71.js.map",
+    "main.36a4027a.js.map": "/static/js/main.36a4027a.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.874bef71.js"
+    "static/js/main.36a4027a.js"
   ]
 }
