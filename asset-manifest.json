@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.1d62d0dc.js",
+    "main.js": "/static/js/main.6fe46d5d.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/bancos.jpg": "/static/media/bancos.66f336cedba99aa77cb4.jpg",
     "static/media/camabau5.jpg": "/static/media/camabau5.332b5b0863c4f66c3606.jpg",
@@ -16,6 +16,8 @@
     "static/media/oculos1.jpg": "/static/media/oculos1.98723492d25e71596540.jpg",
     "static/media/camabox2.jpg": "/static/media/camabox2.8d4e745242b142d6853f.jpg",
     "static/media/highfid_poster.jpg": "/static/media/highfid_poster.2e92c1b6a99d9430c774.jpg",
+    "static/media/sapat1.jpg": "/static/media/sapat1.0057ff41a07efd7fa9ed.jpg",
+    "static/media/sapat2.jpg": "/static/media/sapat2.8c71d3e71bee9b9cc71f.jpg",
     "static/media/varal2.jpg": "/static/media/varal2.df83ee8a0233e978b423.jpg",
     "static/media/camabox1.jpg": "/static/media/camabox1.95b316f7b5ee6ab4aa45.jpg",
     "static/media/josecuervo.jpg": "/static/media/josecuervo.31e76b0c473a56c9efdb.jpg",
@@ -82,11 +84,11 @@
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.1d62d0dc.js.map": "/static/js/main.1d62d0dc.js.map",
+    "main.6fe46d5d.js.map": "/static/js/main.6fe46d5d.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.1d62d0dc.js"
+    "static/js/main.6fe46d5d.js"
   ]
 }
