@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.6fe46d5d.js",
+    "main.js": "/static/js/main.e449cd1d.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/bancos.jpg": "/static/media/bancos.66f336cedba99aa77cb4.jpg",
     "static/media/camabau5.jpg": "/static/media/camabau5.332b5b0863c4f66c3606.jpg",
@@ -24,8 +24,10 @@
     "static/media/cafe2.jpg": "/static/media/cafe2.94c95577e4cb68cfc264.jpg",
     "static/media/cafe1.jpg": "/static/media/cafe1.e0a61ee7d09117927fac.jpg",
     "static/media/jager.jpg": "/static/media/jager.fac1dfc4c389dbc864f5.jpg",
+    "static/media/lumi1.jpg": "/static/media/lumi1.b1a165c5edba5833c064.jpg",
     "static/media/kitliqui6.jpg": "/static/media/kitliqui6.d0bccfe1530da695177a.jpg",
     "static/media/camabau1.jpg": "/static/media/camabau1.ee33c64839ecfb30a90b.jpg",
+    "static/media/lumi2.jpg": "/static/media/lumi2.cb5eb9cd872044ce3147.jpg",
     "static/media/kitliqui5.jpg": "/static/media/kitliqui5.700ae9ce8c72623fbe11.jpg",
     "static/media/torre.jpg": "/static/media/torre.778f4a0cb89081f8c250.jpg",
     "static/media/kitliqui4.jpg": "/static/media/kitliqui4.a037f63422a80030bacb.jpg",
@@ -82,13 +84,14 @@
     "static/media/mesinha1.jpg": "/static/media/mesinha1.30b41e4470211e55d02e.jpg",
     "static/media/mesinha2.jpg": "/static/media/mesinha2.5130c3d8c6b5322329f9.jpg",
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
+    "static/media/lumi3.jpg": "/static/media/lumi3.04df28dad3a96ed575c8.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.6fe46d5d.js.map": "/static/js/main.6fe46d5d.js.map",
+    "main.e449cd1d.js.map": "/static/js/main.e449cd1d.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.6fe46d5d.js"
+    "static/js/main.e449cd1d.js"
   ]
 }
