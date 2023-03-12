@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.fa7665c4.js",
+    "main.js": "/static/js/main.f356698b.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/camabau5.jpg": "/static/media/camabau5.332b5b0863c4f66c3606.jpg",
+    "static/media/metallica_poster.jpg": "/static/media/metallica_poster.77b48083bcc4b9ef1e1c.jpg",
     "static/media/vent1.jpg": "/static/media/vent1.a1eb8081bc53388b6b9b.jpg",
     "static/media/camabau4.jpg": "/static/media/camabau4.82e6377587a50102e807.jpg",
     "static/media/vent2.jpg": "/static/media/vent2.b6c3dfab1392be5f9804.jpg",
@@ -79,11 +80,11 @@
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.fa7665c4.js.map": "/static/js/main.fa7665c4.js.map",
+    "main.f356698b.js.map": "/static/js/main.f356698b.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.fa7665c4.js"
+    "static/js/main.f356698b.js"
   ]
 }
