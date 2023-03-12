@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.f356698b.js",
+    "main.js": "/static/js/main.add2b234.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/bancos.jpg": "/static/media/bancos.66f336cedba99aa77cb4.jpg",
     "static/media/camabau5.jpg": "/static/media/camabau5.332b5b0863c4f66c3606.jpg",
     "static/media/metallica_poster.jpg": "/static/media/metallica_poster.77b48083bcc4b9ef1e1c.jpg",
     "static/media/vent1.jpg": "/static/media/vent1.a1eb8081bc53388b6b9b.jpg",
@@ -10,6 +11,7 @@
     "static/media/vent2.jpg": "/static/media/vent2.b6c3dfab1392be5f9804.jpg",
     "static/media/cadeiraEsc.jpg": "/static/media/cadeiraEsc.ed10fc818dc939fece3f.jpg",
     "static/media/wii.jpg": "/static/media/wii.11fd4dd2980c04fb6471.jpg",
+    "static/media/escul.jpg": "/static/media/escul.eea7ea861ec8d2cf6f8e.jpg",
     "static/media/violao.jpg": "/static/media/violao.8bc25507cd9559c46730.jpg",
     "static/media/oculos1.jpg": "/static/media/oculos1.98723492d25e71596540.jpg",
     "static/media/camabox2.jpg": "/static/media/camabox2.8d4e745242b142d6853f.jpg",
@@ -80,11 +82,11 @@
     "static/media/guardaroupa2_1.jpg": "/static/media/guardaroupa2_1.170b1251f1546180d3d3.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.f356698b.js.map": "/static/js/main.f356698b.js.map",
+    "main.add2b234.js.map": "/static/js/main.add2b234.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.f356698b.js"
+    "static/js/main.add2b234.js"
   ]
 }
