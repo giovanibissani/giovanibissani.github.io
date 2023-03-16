@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e584a3d3.css",
-    "main.js": "/static/js/main.4451f916.js",
+    "main.js": "/static/js/main.53d06568.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/bancos.jpg": "/static/media/bancos.66f336cedba99aa77cb4.jpg",
     "static/media/camabau5.jpg": "/static/media/camabau5.332b5b0863c4f66c3606.jpg",
@@ -11,8 +11,10 @@
     "static/media/cooler.jpg": "/static/media/cooler.2502b9286b1e2f7d244c.jpg",
     "static/media/vent2.jpg": "/static/media/vent2.b6c3dfab1392be5f9804.jpg",
     "static/media/cadeiraEsc.jpg": "/static/media/cadeiraEsc.ed10fc818dc939fece3f.jpg",
+    "static/media/rede1.jpg": "/static/media/rede1.c3058bbd5e217348f1b0.jpg",
     "static/media/wii.jpg": "/static/media/wii.11fd4dd2980c04fb6471.jpg",
     "static/media/escul.jpg": "/static/media/escul.eea7ea861ec8d2cf6f8e.jpg",
+    "static/media/rede2.jpg": "/static/media/rede2.cb4b3c9a90a0956c3b18.jpg",
     "static/media/arc3.jpg": "/static/media/arc3.edbae2f1b79746dfa7a2.jpg",
     "static/media/violao.jpg": "/static/media/violao.8bc25507cd9559c46730.jpg",
     "static/media/livros1.jpg": "/static/media/livros1.70fbedfb34d44a9ecd96.jpg",
@@ -109,11 +111,11 @@
     "static/media/lumi3.jpg": "/static/media/lumi3.04df28dad3a96ed575c8.jpg",
     "index.html": "/index.html",
     "main.e584a3d3.css.map": "/static/css/main.e584a3d3.css.map",
-    "main.4451f916.js.map": "/static/js/main.4451f916.js.map",
+    "main.53d06568.js.map": "/static/js/main.53d06568.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e584a3d3.css",
-    "static/js/main.4451f916.js"
+    "static/js/main.53d06568.js"
   ]
 }
